@@ -1,0 +1,31 @@
+# Une app par ligne. Les lignes commençant par # sont ignorées.
+# yay gère à la fois les dépôts officiels et l'AUR.
+
+# --- Navigateur & sécurité ---
+brave-bin                # AUR
+keepassxc
+veracrypt
+proton-mail-bin          # AUR (client officiel Proton Mail)
+proton-vpn-gtk-app
+
+# --- Dev ---
+visual-studio-code-bin   # AUR (version Microsoft, avec le marketplace)
+docker
+docker-compose
+docker-buildx
+
+# --- Réseau ---
+nmap
+ipscan                   # AUR (Angry IP Scanner)
+twingate                 # AUR
+
+# --- Communication / remote ---
+discord
+parsec-bin               # AUR
+
+# --- Stockage ---
+synology-drive           # AUR
+
+# --- Virtualisation ---
+virtualbox
+virtualbox-guest-iso
